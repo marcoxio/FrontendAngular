@@ -10,7 +10,7 @@ Quiero ayudar a la comunidad de Platzi aportando mis notas y conocimientos para 
 
 ## Cómo contribuir
 
-Si deseas agregar información adicional, cambiar o corregir algún error, puedes hacerlo desde el [repositorio](https://github.com/AugustoBarco/Notas_recolectadas). Con mucho gusto incluiré tu aporte.
+Si deseas agregar información adicional, cambiar o corregir algún error, puedes hacerlo desde el repositorio. Con mucho gusto incluiré tu aporte.
 
 Si colaboras muchas veces con el documento te daré acceso para que incluyas tu información libremente. Más adelante se especificará la estructuración y modelo para contribuir eficientemente.
 
